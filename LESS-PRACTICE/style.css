@@ -1,0 +1,19 @@
+body {
+  background: #a5de60;
+}
+h2 {
+  color: #ac0000;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  color: #ac0000;
+}
+input {
+  gap: 1em;
+  width: 20%;
+}
+.sesion {
+  margin-top: auto;
+}
